@@ -5,6 +5,7 @@ if(isset($_GET['view'])) {
         case 'LinkType':
             include('./View/LinkType.php');
             break;
+            
 
         case 'Association':
             include('./View/association.php');
