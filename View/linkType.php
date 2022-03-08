@@ -5,8 +5,8 @@
     <h1>Les différents type de liens</h1>
 
     <ul>
-        <li><a href="#OneMany">Entité sous-type étant également sur-type</a></li>
-        <li><a href="#ManyMany">Generalisation Simple</a></li>
+        <li><a href="#OneMany">Les liens un à plusieurs (One To Many)</a></li>
+        <li><a href="#ManyMany">Les liens plusieurs à plusieurs (Many To Many)</a></li>
         <li><a href="#Faible">Entité de type faible et association identifiante</a></li>
     </ul>
 
